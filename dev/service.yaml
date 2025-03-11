@@ -9,4 +9,4 @@ spec:
   - port: 8182
     protocol: TCP
     targetPort: 8182
-  
+
